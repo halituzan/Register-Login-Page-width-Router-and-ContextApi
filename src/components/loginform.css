@@ -1,0 +1,8 @@
+.formClass{
+    border: 1px solid rgba(128, 128, 128, 0.508);
+    border-radius: 15px;
+    box-shadow: 0px 0px 17px -5px gray;
+}
+.container{
+    height: 75vh
+}
